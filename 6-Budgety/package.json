@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Lypzis/6-Budgety#readme",
   "dependencies": {
-    "electron": "4.1.4",
+    "electron": "15.5.5",
     "electron-compile": "^6.4.2",
     "electron-squirrel-startup": "^1.0.0"
   },
